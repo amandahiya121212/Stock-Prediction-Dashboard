@@ -78,7 +78,4 @@ The **Stock Prediction Dashboard** is a web-based application that provides stoc
 - Implement portfolio analysis and optimization tools.
 - Enable user authentication for personalized dashboards.
 
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
